@@ -28,3 +28,4 @@ print("Size",q.size())
 end = time.time()
 print(f"Runtime of the program is {end - start}")
     
+class
